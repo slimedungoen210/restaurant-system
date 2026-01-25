@@ -15,8 +15,8 @@ This project is a console-based restaurant management system developed for the S
 - GitHub
 
 ## Team Members
-Lê Lý Hoàng Đức - 077206009200 
-Trịnh Nhật Hạ - 060206010321 
-Trần Quang Hà - 075206012345 
-Nguyễn Thị Xuân Mai - 072306011770 
+Lê Lý Hoàng Đức - 077206009200,
+Trịnh Nhật Hạ - 060206010321,
+Trần Quang Hà - 075206012345,
+Nguyễn Thị Xuân Mai - 072306011770,
 Lê Thị Lan My - 077306002850
