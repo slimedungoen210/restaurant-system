@@ -1,1 +1,1 @@
-status = ["Pending", "Preparing", "Served", "Paid"]
+status = ["pending", "preparing", "served", "paid"]
