@@ -1,0 +1,12 @@
+ # ================= admin =================
+    def admin_menu(self):
+        self.clear()
+        tk.Label(self.root, text="admin menu", font=("arial", 16, "bold")).pack(pady=15)
+        tk.Button(self.root, text="view orders", command=self.view_orders).pack(fill="x", padx=100, pady=4)
+        tk.Button(self.root, text="update order", command=self.update_order).pack(fill="x", padx=100, pady=4)
+        tk.Button(self.root, text="edit order", command=self.edit_order).pack(fill="x", padx=100, pady=4)
+        tk.Button(self.root, text="delete order", command=self.delete_order).pack(fill="x", padx=100, pady=4)
+        tk.Button(self.root, text="view menu", command=self.view_menu).pack(fill="x", padx=100, pady=4)
+        tk.Button(self.root, text="add menu", command=self.add_menu).pack(fill="x", padx=100, pady=4)
+        tk.Button(self.root, text="report", command=self.report).pack(fill="x", padx=100, pady=4)
+        tk.Button(self.root, text="logout", command=self.main_menu).pack(fill="x", padx=100, pady=15)
